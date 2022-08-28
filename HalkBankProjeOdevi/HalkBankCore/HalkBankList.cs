@@ -44,11 +44,13 @@ namespace HalkBankCore
         {
             int index = 0;
             while (index < _dizi.Length && !kosul(_dizi[index])) index++;
+            if (index >= _dizi.Length) return;
             Sil(index);
         }
 
         public void Sil(int index)
         {
+            
             var yedekDizi = _dizi;
             _dizi = new object[ElemanSayisi - 1];
 
@@ -62,7 +64,7 @@ namespace HalkBankCore
                 _dizi[sayac] = yedekDizi[i];
 
                 sayac++;
-            }
+            } 
         }
 
         public void Temizle()
