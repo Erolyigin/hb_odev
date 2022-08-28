@@ -29,9 +29,7 @@ namespace HalkBankCore
         {
             var yedekDizi = _dizi;
             _dizi = new object[ElemanSayisi + 1];
-
             yedekDizi.CopyTo(_dizi, 0);
-
             _dizi[ElemanSayisi-1] = eleman;
         }
 
@@ -50,19 +48,14 @@ namespace HalkBankCore
 
         public void Sil(int index)
         {
-            
             var yedekDizi = _dizi;
             _dizi = new object[ElemanSayisi - 1];
-
             int sayac = 0;
-
             for (int i = 0; i < yedekDizi.Length; i++)
             {
                 if (i == index)
                     continue;
-
                 _dizi[sayac] = yedekDizi[i];
-
                 sayac++;
             } 
         }
