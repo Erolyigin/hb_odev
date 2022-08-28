@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "eb8yIhIls0IeVNKWDUsgGu/WlLP1nRHPQaLlYkW/kgvTEQin+nux5Bzyh+iv5uZ6k3WsajCrscw78vyxLMYtug==",
+  "success": true,
+  "projectFilePath": "Z:\\belgelerim\\B2H1KDG\\My Documents\\Desktop\\hb_odev\\CSharpDevelopment\\ArrayDemo\\ArrayDemo.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://pnexusap01:9081/repository/nuget-group/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

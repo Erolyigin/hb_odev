@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HalkBankListDemo/1.0.0": {
+        "dependencies": {
+          "HalkBankCore": "1.0.0"
+        },
+        "runtime": {
+          "HalkBankListDemo.dll": {}
+        }
+      },
+      "HalkBankCore/1.0.0": {
+        "runtime": {
+          "HalkBankCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HalkBankListDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HalkBankCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

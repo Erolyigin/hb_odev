@@ -1,0 +1,10 @@
+Z:\belgelerim\B2H1KDG\My Documents\Desktop\hb_odev\HalkBankProjeOdevi\HalkBankCore\bin\Debug\netstandard2.0\HalkBankCore.deps.json
+Z:\belgelerim\B2H1KDG\My Documents\Desktop\hb_odev\HalkBankProjeOdevi\HalkBankCore\bin\Debug\netstandard2.0\HalkBankCore.dll
+Z:\belgelerim\B2H1KDG\My Documents\Desktop\hb_odev\HalkBankProjeOdevi\HalkBankCore\bin\Debug\netstandard2.0\HalkBankCore.pdb
+Z:\belgelerim\B2H1KDG\My Documents\Desktop\hb_odev\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.csproj.AssemblyReference.cache
+Z:\belgelerim\B2H1KDG\My Documents\Desktop\hb_odev\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.GeneratedMSBuildEditorConfig.editorconfig
+Z:\belgelerim\B2H1KDG\My Documents\Desktop\hb_odev\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.AssemblyInfoInputs.cache
+Z:\belgelerim\B2H1KDG\My Documents\Desktop\hb_odev\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.AssemblyInfo.cs
+Z:\belgelerim\B2H1KDG\My Documents\Desktop\hb_odev\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.csproj.CoreCompileInputs.cache
+Z:\belgelerim\B2H1KDG\My Documents\Desktop\hb_odev\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.dll
+Z:\belgelerim\B2H1KDG\My Documents\Desktop\hb_odev\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.pdb
